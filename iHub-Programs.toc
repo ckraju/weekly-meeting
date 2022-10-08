@@ -1,0 +1,14 @@
+\babel@toc {nil}{}\relax 
+\beamer@subsectionintoc {0}{1}{iHub-Data}{3}{0}{0}
+\beamer@subsectionintoc {0}{2}{Programs}{4}{0}{0}
+\beamer@sectionintoc {1}{\textbf {HRD}}{5}{0}{1}
+\beamer@subsectionintoc {1}{1}{Latest Update}{7}{0}{1}
+\beamer@sectionintoc {2}{Skill Development }{8}{0}{2}
+\beamer@subsectionintoc {2}{1}{On-Campus Programs}{10}{0}{2}
+\beamer@sectionintoc {3}{Visitors}{11}{0}{3}
+\beamer@subsectionintoc {3}{1}{Categories of Visitors}{12}{0}{3}
+\beamer@sectionintoc {4}{Collaborative Research Programs}{13}{0}{4}
+\beamer@subsectionintoc {4}{1}{Program Details}{14}{0}{4}
+\beamer@subsectionintoc {4}{2}{Program Details}{15}{0}{4}
+\beamer@subsectionintoc {4}{3}{National Expo}{16}{0}{4}
+\beamer@subsectionintoc {4}{4}{National Expo}{17}{0}{4}

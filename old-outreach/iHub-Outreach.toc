@@ -1,0 +1,17 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{50-week Foundations of Modern Machine Learning }{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Course Details}{6}{0}{2}
+\beamer@sectionintoc {3}{36-week Foundations of Modern Machine Learning }{7}{0}{3}
+\beamer@subsectionintoc {3}{1}{Course Details}{8}{0}{3}
+\beamer@sectionintoc {4}{10th Edition of Workshop on Excitement of Research}{9}{0}{4}
+\beamer@subsectionintoc {4}{1}{Program Details}{10}{0}{4}
+\beamer@sectionintoc {5}{Ongoing Programs}{11}{0}{5}
+\beamer@subsectionintoc {5}{1}{Ongoing}{12}{0}{5}
+\beamer@subsectionintoc {5}{2}{\\50-week FMML - Aug 22}{13}{0}{5}
+\beamer@subsectionintoc {5}{3}{Program Details}{14}{0}{5}
+\beamer@subsectionintoc {5}{4}{\\SRISHTI 22}{15}{0}{5}
+\beamer@subsectionintoc {5}{5}{\\SRISHTI 22}{16}{0}{5}
+\beamer@subsectionintoc {5}{6}{\\National-level Expo in November}{17}{0}{5}
+\beamer@sectionintoc {6}{Fresh Plans}{18}{0}{6}
+\beamer@subsectionintoc {6}{1}{Outreach Activities}{19}{0}{6}
+\babel@toc {nil}{}\relax 
